@@ -1,0 +1,2 @@
+# lsd
+Minecraft Server - LSD
